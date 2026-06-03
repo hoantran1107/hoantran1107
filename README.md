@@ -1,82 +1,108 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/keyntk78)
-<h1 align="center">Hi 👋, I'm TRAN KHAI HOAN</h1>
-<h2 align="center">A passionate FullStack Developer from Viet Nam</h2>
+<h1 align="center">Hi, I'm Tran Khai Hoan</h1>
+<h3 align="center">Full-stack developer from Viet Nam</h3>
 
-<div style={display: flex}>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on **Infodation VN**
-
-- 🌱 I’m currently learning **DevOps, AI Enginner**
-
-- 💬 Ask me about **ASP.NET, Angular, Nextjs, Python**
-
-- 📫 How to reach me **hoantran1107@gmail.com**
-  
-- ⚡ Fun fact **I am Funny**</p>
-</div>
-</br>
-</br>
-</br>
-</br>
-</br>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<span><img src="https://img.shields.io/badge/Csharp-282C34?logo=csharp&logoColor=239120" alt="Csharp logo" title="C#" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt="Csharp logo" title=".NET" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft Sql Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft Sql Server" title="Microsoft Sql Server" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=4169E1" alt="Postgresql" title="Postgresql" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=4479A1" alt="Mysql" title="Mysql" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="Visual Studio Code logo" title="PHP" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-
-<div align=center>
-  <a href="#" title="Hoan Tran">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoantran1107&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<p align="center">
+  <a href="mailto:hoantran1107@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-hoantran1107%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#" title="Hoan Tran">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hoantran1107&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/hoantran1107">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-hoantran1107-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
+<p align="center">
+  I build web applications across backend, frontend, and infrastructure.
+  I am currently working at <strong>Infodation VN</strong> and learning more about
+  <strong>DevOps</strong> and <strong>AI engineering</strong>.
+</p>
 
-<div align="center"> 
-  <a href="mailto:hoantran1107@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoantran-email" />
+---
+
+## Play Hoan Quest
+
+<p align="center">
+  <img alt="Live shared retro creature-catching game screen" src="https://hoantran1107.vercel.app/api/screen.svg" width="330" />
+</p>
+
+<p align="center">
+  <a href="https://hoantran1107.vercel.app/api/control?button=up&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="Move up" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/up.png" width="34" />
   </a>
-</div>
+  <br />
+  <a href="https://hoantran1107.vercel.app/api/control?button=left&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="Move left" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/left.png" width="34" />
+  </a>
+  <img alt="" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/blank.png" width="34" />
+  <a href="https://hoantran1107.vercel.app/api/control?button=right&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="Move right" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/right.png" width="34" />
+  </a>
+  <img alt="" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/blank.png" width="34" />
+  <a href="https://hoantran1107.vercel.app/api/control?button=b&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="B button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/B.png" width="34" />
+  </a>
+  <a href="https://hoantran1107.vercel.app/api/control?button=a&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="A button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/A.png" width="34" />
+  </a>
+  <br />
+  <a href="https://hoantran1107.vercel.app/api/control?button=down&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="Move down" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/down.png" width="34" />
+  </a>
+  <br />
+  <a href="https://hoantran1107.vercel.app/api/control?button=select&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="Select button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/select.png" width="82" />
+  </a>
+  <a href="https://hoantran1107.vercel.app/api/control?button=start&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+    <img alt="Start button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/start.png" width="72" />
+  </a>
+</p>
+
+<p align="center">
+  This is a shared README game. Click a control, return to the profile, then refresh if GitHub's image cache has not updated yet.
+</p>
+
+<details>
+  <summary>How this game works</summary>
+
+  The profile README stays GitHub-safe: it only uses Markdown, images, and links. The screen is rendered by
+  <code>/api/screen.svg</code>, and each linked control calls <code>/api/control</code> to update a shared Redis-backed
+  game state before redirecting back here. The art and companion names are original retro creature-catching assets.
+</details>
+
+---
+
+## Tech Stack
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-282C34?style=flat-square&logo=csharp&logoColor=239120" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-282C34?style=flat-square&logo=dotnet&logoColor=512BD4" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-282C34?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-282C34?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-282C34?style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282C34?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282C34?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-282C34?style=flat-square&logo=php&logoColor=777BB4" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-282C34?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  <img alt="React" src="https://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-282C34?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-282C34?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img alt="Top languages" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoantran1107&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0f766e&text_color=111827&bg_color=ffffff&langs_count=8&layout=compact&border_color=0f766e" />
+  <img alt="GitHub stats" width="430" src="https://github-readme-stats.vercel.app/api?username=hoantran1107&show_icons=true&title_color=0f766e&text_color=111827&icon_color=0f766e&bg_color=ffffff&border_color=0f766e" />
+</p>
+
+---
+
+## Deployment Notes
+
+This repo is ready for Vercel deployment. Configure these environment variables for persistent shared gameplay:
+
+- `UPSTASH_REDIS_REST_URL`
+- `UPSTASH_REDIS_REST_TOKEN`
+- `GAME_COOLDOWN_MS` optional, default `900`
+
+If Vercel assigns a different production domain, replace `https://hoantran1107.vercel.app` in this README with the actual deployment URL.

@@ -1,0 +1,12 @@
+{
+  "name": "hoantran1107-profile-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playable GitHub profile README game backed by Vercel API routes.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
