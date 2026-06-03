@@ -25,39 +25,39 @@
 </p>
 
 <p align="center">
-  <a href="https://hoantran1107.vercel.app/api/control?button=up&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=up&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="Move up" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/up.png" width="34" />
   </a>
   <br />
-  <a href="https://hoantran1107.vercel.app/api/control?button=left&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=left&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="Move left" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/left.png" width="34" />
   </a>
   <img alt="" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/blank.png" width="34" />
-  <a href="https://hoantran1107.vercel.app/api/control?button=right&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=right&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="Move right" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/right.png" width="34" />
   </a>
   <img alt="" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/blank.png" width="34" />
-  <a href="https://hoantran1107.vercel.app/api/control?button=b&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=b&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="B button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/B.png" width="34" />
   </a>
-  <a href="https://hoantran1107.vercel.app/api/control?button=a&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=a&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="A button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/A.png" width="34" />
   </a>
   <br />
-  <a href="https://hoantran1107.vercel.app/api/control?button=down&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=down&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="Move down" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/down.png" width="34" />
   </a>
   <br />
-  <a href="https://hoantran1107.vercel.app/api/control?button=select&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=select&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="Select button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/select.png" width="82" />
   </a>
-  <a href="https://hoantran1107.vercel.app/api/control?button=start&callback=https%3A%2F%2Fgithub.com%2Fhoantran1107">
+  <a href="https://hoantran1107.vercel.app/api/control?button=start&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
     <img alt="Start button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/start.png" width="72" />
   </a>
 </p>
 
 <p align="center">
-  This is a shared README game. Click a control, return to the profile, then refresh if GitHub's image cache has not updated yet.
+  This is a shared README game. GitHub caches README images, so button clicks open the live play page where the screen updates immediately.
 </p>
 
 <details>

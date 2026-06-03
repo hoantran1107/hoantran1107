@@ -1,6 +1,7 @@
 const assert = require("node:assert/strict");
 const test = require("node:test");
 const { DEFAULT_STATE, applyInput, cloneState, normalizeButton } = require("../lib/game");
+const { wrapText } = require("../lib/render");
 
 test("normalizes only supported buttons", () => {
   assert.equal(normalizeButton(" A "), "a");
@@ -59,4 +60,11 @@ test("invalid buttons do not mutate state", () => {
   assert.equal(result.changed, false);
   assert.equal(result.error, "Invalid button");
   assert.deepEqual(result.state, state);
+});
+
+test("wraps long screen messages into bounded lines", () => {
+  const lines = wrapText("A shared pocket quest is waiting. Press Start.", 35, 2);
+
+  assert.equal(lines.length, 2);
+  assert.ok(lines.every((line) => line.length <= 35));
 });

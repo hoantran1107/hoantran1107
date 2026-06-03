@@ -1,4 +1,5 @@
 const { renderScreen } = require("../lib/render");
+const { readCookie, decodeStateCookie } = require("../lib/cookie-state");
 const { readState } = require("../lib/storage");
 
 module.exports = async function handler(req, res) {
@@ -9,7 +10,8 @@ module.exports = async function handler(req, res) {
     return;
   }
 
-  const state = await readState();
+  const cookieState = decodeStateCookie(readCookie(req));
+  const state = cookieState || await readState();
   const svg = renderScreen(state);
 
   res.setHeader("Content-Type", "image/svg+xml; charset=utf-8");

@@ -1,4 +1,5 @@
 const { applyInput, normalizeButton } = require("../lib/game");
+const { stateCookieHeader } = require("../lib/cookie-state");
 const { checkCooldown, readState, writeState } = require("../lib/storage");
 
 const DEFAULT_CALLBACK = "https://github.com/hoantran1107";
@@ -6,7 +7,8 @@ const ALLOWED_CALLBACKS = new Set([
   DEFAULT_CALLBACK,
   `${DEFAULT_CALLBACK}/`,
   "https://github.com/hoantran1107/hoantran1107",
-  "https://github.com/hoantran1107/hoantran1107/"
+  "https://github.com/hoantran1107/hoantran1107/",
+  "https://hoantran1107.vercel.app/api/play"
 ]);
 
 function parseQuery(req) {
@@ -82,6 +84,7 @@ module.exports = async function handler(req, res) {
 
   res.statusCode = 302;
   res.setHeader("Location", callback);
+  res.setHeader("Set-Cookie", stateCookieHeader(result.state));
   res.setHeader("Cache-Control", "no-store");
   res.end("");
 };
