@@ -21,7 +21,7 @@
 ## Play Hoan Quest
 
 <p align="center">
-  <img alt="Retro creature-catching game preview" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/hoan-quest-preview.svg" width="330" />
+  <img alt="Live shared retro creature-catching game screen" src="https://hoantran1107.vercel.app/api/screen.svg" width="330" />
 </p>
 
 <p align="center">
@@ -58,7 +58,6 @@
 
 <p align="center">
   This is a shared README game. Click a control, return to the profile, then refresh if GitHub's image cache has not updated yet.
-  The live screen uses Vercel once <code>/api/screen.svg</code> is deployed.
 </p>
 
 <details>
