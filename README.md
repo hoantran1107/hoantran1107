@@ -5,8 +5,8 @@
   <a href="mailto:hoantran1107@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hoantran1107%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/hoantran1107">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-hoantran1107-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tran-khai-hoan-b85ba2269/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/GitHub-hoantran1107-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
