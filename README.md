@@ -26,26 +26,27 @@
 
 <p align="center">
   <a href="https://hoantran1107.vercel.app/api/control?button=up&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
-    <img alt="Move up" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/up.png" width="34" />
+    <img alt="Move up" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/up.png" width="38" />
   </a>
   <br />
   <a href="https://hoantran1107.vercel.app/api/control?button=left&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
-    <img alt="Move left" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/left.png" width="34" />
+    <img alt="Move left" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/left.png" width="38" />
   </a>
-  <img alt="" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/blank.png" width="34" />
+  &nbsp;&nbsp;&nbsp;
   <a href="https://hoantran1107.vercel.app/api/control?button=right&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
-    <img alt="Move right" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/right.png" width="34" />
-  </a>
-  <img alt="" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/blank.png" width="34" />
-  <a href="https://hoantran1107.vercel.app/api/control?button=b&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
-    <img alt="B button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/B.png" width="34" />
-  </a>
-  <a href="https://hoantran1107.vercel.app/api/control?button=a&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
-    <img alt="A button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/A.png" width="34" />
+    <img alt="Move right" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/right.png" width="38" />
   </a>
   <br />
   <a href="https://hoantran1107.vercel.app/api/control?button=down&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
-    <img alt="Move down" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/down.png" width="34" />
+    <img alt="Move down" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/down.png" width="38" />
+  </a>
+  <br />
+  <br />
+  <a href="https://hoantran1107.vercel.app/api/control?button=b&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
+    <img alt="B button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/B.png" width="38" />
+  </a>
+  <a href="https://hoantran1107.vercel.app/api/control?button=a&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
+    <img alt="A button" src="https://raw.githubusercontent.com/hoantran1107/hoantran1107/main/img/A.png" width="38" />
   </a>
   <br />
   <a href="https://hoantran1107.vercel.app/api/control?button=select&callback=https%3A%2F%2Fhoantran1107.vercel.app%2Fapi%2Fplay">
@@ -91,18 +92,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img alt="Top languages" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoantran1107&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=0f766e&text_color=111827&bg_color=ffffff&langs_count=8&layout=compact&border_color=0f766e" />
-  <img alt="GitHub stats" width="430" src="https://github-readme-stats.vercel.app/api?username=hoantran1107&show_icons=true&title_color=0f766e&text_color=111827&icon_color=0f766e&bg_color=ffffff&border_color=0f766e" />
+  <img alt="GitHub profile summary" width="760" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoantran1107&theme=github" />
 </p>
 
----
-
-## Deployment Notes
-
-This repo is ready for Vercel deployment. Configure these environment variables for persistent shared gameplay:
-
-- `UPSTASH_REDIS_REST_URL`
-- `UPSTASH_REDIS_REST_TOKEN`
-- `GAME_COOLDOWN_MS` optional, default `900`
-
-If Vercel assigns a different production domain, replace `https://hoantran1107.vercel.app` in this README with the actual deployment URL.
+<p align="center">
+  <img alt="Most used languages" width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoantran1107&theme=github" />
+  <img alt="GitHub contribution stats" width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoantran1107&theme=github" />
+</p>
